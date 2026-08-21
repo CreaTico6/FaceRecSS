@@ -1,0 +1,43 @@
+2026-08-21 01:45:55 - FaceRec ERRO inicialização: OpenCV (cv2) não está instalado. Execute 'make install'.
+2026-08-21 01:45:55 - Sessão Iniciada / Ecrã Bloqueado
+2026-08-21 01:45:55 - Aviso: OpenCV (cv2) não encontrado. Detetor de movimento desativado.
+2026-08-21 01:46:07 - Atividade detetada (Teclado)
+2026-08-21 01:46:07 - Sessão Desbloqueada com palavra-passe
+2026-08-21 01:47:26 - FaceRec inicializado: 44 pessoa(s) [Dinis! Já foste correr hoje?, Hacker! Esse sistema operativo, está pronto?, Maria João! Ainda sabes onde é a escola?!, T!, Vítor The CTO, aantela-, abessa-m. Já foste correr hoje?, adpinhei, brmaria-, cgross-s! Estás pronto?, cgross-s, clumertz, cmoura-p, davmendo, dcaetano, dmikhail, dsutormi, etchipoq, feazeved, fjose-hi, fomanca, fshiniti, gasoares, gde-la-r, ghenriqu, gtretiak, jemustaj, joesanto, jpedro-f! ALERT STAFF!! Am i in trouble?!, lbuscaro, leoaguia, lgertrud, luguimar, mafonso, mide-fre, paalexan, paulo-do, rafaelfe, rodrmore, thenriqu, thevaris Tudo preparado?, thevaris, valcalol, vaugusto], threshold=0.363
+2026-08-21 01:47:26 - Sessão Iniciada / Ecrã Bloqueado
+2026-08-21 01:47:26 - FaceRec scan: 1 face(s) -> T!(0.60)
+2026-08-21 01:47:26 - Face reconhecida: T! (confiança: 0.60) [Saudação: ON]
+2026-08-21 01:47:35 - FaceRec scan: 1 face(s) -> T!(0.41)
+2026-08-21 01:47:36 - FaceRec scan: nenhuma face detetada
+2026-08-21 01:47:36 - FaceRec scan: nenhuma face detetada
+2026-08-21 01:47:37 - FaceRec scan: 1 face(s) -> T!(0.46)
+2026-08-21 01:47:37 - Face reconhecida: T! (confiança: 0.46) [Saudação: ON]
+2026-08-21 01:47:38 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-21 01:47:38 - Face desconhecida detetada
+2026-08-21 01:47:39 - Atividade detetada (Teclado)
+2026-08-21 01:47:39 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-21 01:47:39 - Face desconhecida detetada
+2026-08-21 01:47:39 - Sessão Desbloqueada com palavra-passe
+2026-08-21 01:51:37 - FaceRec inicializado: 44 pessoa(s) [Dinis! Já foste correr hoje?, Hacker! Esse sistema operativo, está pronto?, Maria João! Ainda sabes onde é a escola?!, T!, Vítor The CTO, aantela-, abessa-m. Já foste correr hoje?, adpinhei, brmaria-, cgross-s! Estás pronto?, cgross-s, clumertz, cmoura-p, davmendo, dcaetano, dmikhail, dsutormi, etchipoq, feazeved, fjose-hi, fomanca, fshiniti, gasoares, gde-la-r, ghenriqu, gtretiak, jemustaj, joesanto, jpedro-f! ALERT STAFF!! Am i in trouble?!, lbuscaro, leoaguia, lgertrud, luguimar, mafonso, mide-fre, paalexan, paulo-do, rafaelfe, rodrmore, thenriqu, thevaris Tudo preparado?, thevaris, valcalol, vaugusto], threshold=0.363
+2026-08-21 01:51:37 - Sessão Iniciada / Ecrã Bloqueado
+2026-08-21 01:51:40 - FaceRec scan: 1 face(s) -> T!(0.57)
+2026-08-21 01:51:40 - Face reconhecida: T! (confiança: 0.57) [Saudação: ON]
+2026-08-21 01:51:41 - FaceRec scan: 1 face(s) -> T!(0.48)
+2026-08-21 01:51:45 - FaceRec scan: 1 face(s) -> T!(0.43)
+2026-08-21 01:51:45 - Atividade detetada (Teclado)
+2026-08-21 01:51:46 - FaceRec scan: nenhuma face detetada
+2026-08-21 01:51:47 - FaceRec scan: 1 face(s) -> T!(0.39)
+2026-08-21 01:51:48 - Atividade detetada (Teclado)
+2026-08-21 01:51:49 - Sessão Desbloqueada com palavra-passe
+2026-08-21 01:52:23 - FaceRec inicializado: 44 pessoa(s) [Dinis! Já foste correr hoje?, Hacker! Esse sistema operativo, está pronto?, Maria João! Ainda sabes onde é a escola?!, T!, Vítor The CTO, aantela-, abessa-m. Já foste correr hoje?, adpinhei, brmaria-, cgross-s! Estás pronto?, cgross-s, clumertz, cmoura-p, davmendo, dcaetano, dmikhail, dsutormi, etchipoq, feazeved, fjose-hi, fomanca, fshiniti, gasoares, gde-la-r, ghenriqu, gtretiak, jemustaj, joesanto, jpedro-f! ALERT STAFF!! Am i in trouble?!, lbuscaro, leoaguia, lgertrud, luguimar, mafonso, mide-fre, paalexan, paulo-do, rafaelfe, rodrmore, thenriqu, thevaris Tudo preparado?, thevaris, valcalol, vaugusto], threshold=0.363
+2026-08-21 01:52:23 - Sessão Iniciada / Ecrã Bloqueado
+2026-08-21 01:52:26 - FaceRec scan: 1 face(s) -> T!(0.55)
+2026-08-21 01:52:26 - Face reconhecida: T! (confiança: 0.55) [Saudação: ON]
+2026-08-21 01:52:27 - FaceRec scan: 1 face(s) -> T!(0.47)
+2026-08-21 01:52:28 - FaceRec scan: 1 face(s) -> T!(0.49)
+2026-08-21 01:52:29 - Atividade detetada (Teclado)
+2026-08-21 01:52:29 - FaceRec scan: nenhuma face detetada
+2026-08-21 01:52:31 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-21 01:52:31 - Face desconhecida detetada
+2026-08-21 01:52:32 - Atividade detetada (Teclado)
+2026-08-21 01:52:32 - Sessão Desbloqueada com palavra-passe
