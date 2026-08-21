@@ -1,7 +1,6 @@
 # FaceRecSS — Proteção de Ecrã com Reconhecimento Facial & Registo Simples
 
 ## 🚀 TL;DR
-
 O **FaceRecSS** é um bloqueador de ecrã/screensaver interativo escrito em Python.
 Deteta movimento através da webcam, reconhece rostos na base de dados, apresenta saudações personalizadas no ecrã, regista eventos em `log.txt` e bloqueia atalhos do sistema (Alt+Tab, Super key) até ser introduzida a palavra-passe secreta.
 
