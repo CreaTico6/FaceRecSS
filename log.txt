@@ -1,134 +1,108 @@
-2026-08-25 16:43:14 - FaceRec inicializado: 50 pessoa(s) [Dinis! Já foste correr hoje?, Hacker! Esse sistema operativo, está pronto?, Maria João! Ainda sabes onde é a escola?!, Mariana, MarianaR, Mel, Melissa, PedroSantaClara. The 42 GodFather!, Ricardo, Sotto, T!, Vanessa The CEO!!, Vítor The CTO, aantela-, adpinhei, bpavlows, brmaria-, cgross-s, clumertz, cmoura-p, davmendo, dcaetano, dmikhail, dsutormi, feazeved, fjose-hi, fomanca, fshiniti, gasoares, gde-la-r, ghenriqu, gtretiak, jemustaj, joesanto, jpedro-f! ALERT STAFF!! Am i in trouble?!, lbuscaro, leoaguia, lgertrud, luguimar, maaugust, mafonso, mide-fre, paalexan, paulo-do, rafaelfe, rita, rodrmore, thevaris, valcalol, vaugusto], threshold=0.363
-2026-08-25 16:43:14 - Sessão Iniciada / Ecrã Bloqueado
-2026-08-25 16:43:15 - Atividade detetada (Camara)
-2026-08-25 16:43:15 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 16:43:15 - Face desconhecida detetada
-2026-08-25 16:43:16 - FaceRec scan: nenhuma face detetada
-2026-08-25 16:43:17 - FaceRec scan: nenhuma face detetada
-2026-08-25 16:43:18 - FaceRec scan: nenhuma face detetada
-2026-08-25 16:43:19 - FaceRec scan: nenhuma face detetada
-2026-08-25 16:43:20 - FaceRec scan: nenhuma face detetada
-2026-08-25 16:43:21 - FaceRec scan: nenhuma face detetada
-2026-08-25 16:43:23 - FaceRec scan: nenhuma face detetada
-2026-08-25 16:43:24 - FaceRec scan: nenhuma face detetada
-2026-08-25 16:43:24 - Atividade detetada (Rato)
-2026-08-25 16:43:24 - Atividade continuada (Rato)
-2026-08-25 16:43:24 - Atividade continuada (Rato)
-2026-08-25 16:43:24 - Atividade continuada (Rato)
-2026-08-25 16:43:24 - Atividade continuada (Rato)
-2026-08-25 16:43:24 - Atividade continuada (Rato)
-2026-08-25 16:43:25 - FaceRec scan: 1 face(s) -> T!(0.62)
-2026-08-25 16:43:25 - Face reconhecida: T! (confiança: 0.62) [Saudação: ON]
-2026-08-25 16:43:26 - FaceRec scan: nenhuma face detetada
-2026-08-25 16:43:27 - FaceRec scan: 1 face(s) -> T!(0.48)
-2026-08-25 16:43:28 - Atividade detetada (Teclado)
-2026-08-25 16:43:28 - Atividade continuada (Teclado)
-2026-08-25 16:43:28 - FaceRec scan: 1 face(s) -> T!(0.44)
-2026-08-25 16:43:28 - Atividade continuada (Teclado)
-2026-08-25 16:43:28 - Sessão Desbloqueada com palavra-passe
-2026-08-25 18:55:06 - FaceRec inicializado: 50 pessoa(s) [Dinis! Já foste correr hoje?, Hacker! Esse sistema operativo, está pronto?, Maria João! Ainda sabes onde é a escola?!, Mariana, MarianaR, Mel, Melissa, PedroSantaClara. The 42 GodFather!, Ricardo, Sotto, T!, Vanessa The CEO!!, Vítor The CTO, aantela-, adpinhei, bpavlows, brmaria-, cgross-s, clumertz, cmoura-p, davmendo, dcaetano, dmikhail, dsutormi, feazeved, fjose-hi, fomanca, fshiniti, gasoares, gde-la-r, ghenriqu, gtretiak, jemustaj, joesanto, jpedro-f! ALERT STAFF!! Am i in trouble?!, lbuscaro, leoaguia, lgertrud, luguimar, maaugust, mafonso, mide-fre, paalexan, paulo-do, rafaelfe, rita, rodrmore, thevaris, valcalol, vaugusto], threshold=0.363
-2026-08-25 18:55:06 - Sessão Iniciada / Ecrã Bloqueado
-2026-08-25 18:58:35 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:58:35 - Atividade detetada (Camara)
-2026-08-25 18:58:36 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:58:37 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:58:39 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:58:40 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 18:58:40 - Face desconhecida detetada
-2026-08-25 18:58:41 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:58:42 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:58:43 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:58:44 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:59:10 - Atividade detetada (Camara)
-2026-08-25 18:59:10 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:59:11 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:59:12 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 18:59:12 - Face desconhecida detetada
-2026-08-25 18:59:13 - FaceRec scan: 2 face(s) -> unknown(0.00), unknown(0.00)
-2026-08-25 18:59:13 - Face desconhecida detetada
-2026-08-25 18:59:13 - Face desconhecida detetada
-2026-08-25 18:59:14 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:59:16 - FaceRec scan: nenhuma face detetada
-2026-08-25 18:59:58 - Atividade detetada (Camara)
-2026-08-25 18:59:58 - FaceRec scan: nenhuma face detetada
-2026-08-25 19:00:18 - Atividade detetada (Camara)
-2026-08-25 19:00:18 - FaceRec scan: nenhuma face detetada
-2026-08-25 19:00:19 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 19:00:19 - Face desconhecida detetada
-2026-08-25 19:00:20 - FaceRec scan: nenhuma face detetada
-2026-08-25 19:01:31 - Atividade detetada (Camara)
-2026-08-25 19:01:31 - FaceRec scan: nenhuma face detetada
-2026-08-25 19:01:32 - FaceRec scan: 1 face(s) -> T!(0.52)
-2026-08-25 19:01:32 - Face reconhecida: T! (confiança: 0.52) [Saudação: ON]
-2026-08-25 19:01:33 - FaceRec scan: 1 face(s) -> T!(0.58)
-2026-08-25 19:01:34 - Atividade detetada (Teclado)
-2026-08-25 19:01:34 - Atividade continuada (Teclado)
-2026-08-25 19:01:34 - FaceRec scan: 1 face(s) -> T!(0.44)
-2026-08-25 19:01:34 - Atividade continuada (Teclado)
-2026-08-25 19:01:34 - Sessão Desbloqueada com palavra-passe
-2026-08-25 22:16:34 - FaceRec inicializado: 53 pessoa(s) [Dinis! Já foste correr hoje?, Hacker! Esse sistema operativo, está pronto?, Maria João! Ainda sabes onde é a escola?!, Mariana, MarianaR, Mel, Melissa, PedroSantaClara. The 42 GodFather!, Ricardo, Sotto, T!, Vanessa The CEO!!, Vítor The CTO, aantela-, adpinhei, bpavlows, brmaria-, cgross-s, clumertz, cmoura-p, davmendo, dcaetano, dda-fons, dmikhail, dsutormi, feazeved, fjose-hi, fomanca, fshiniti, gasoares, gde-la-r, ghenriqu, gtretiak, jemustaj, joesanto, jpedro-f! ALERT STAFF!! Am i in trouble?!, lbuscaro, leoaguia, lgertrud, luguimar, maaugust, mafonso, mariaalm, mide-fre, paalexan, paulo-do, rafaelfe, rita, rodrmore, thevaris, valcalol, vaugusto, wlucas-f], threshold=0.363
-2026-08-25 22:16:34 - Sessão Iniciada / Ecrã Bloqueado
-2026-08-25 22:16:37 - Atividade detetada (Camara)
-2026-08-25 22:16:37 - FaceRec scan: nenhuma face detetada
-2026-08-25 22:16:37 - FaceRec scan: 2 face(s) -> T!(0.52), unknown(0.00)
-2026-08-25 22:16:37 - Face reconhecida: T! (confiança: 0.52) [Saudação: ON]
-2026-08-25 22:16:38 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:16:38 - Face desconhecida detetada
-2026-08-25 22:16:39 - FaceRec scan: 1 face(s) -> wlucas-f(0.41)
-2026-08-25 22:16:39 - Face reconhecida: wlucas-f (confiança: 0.41) [Saudação: ON]
-2026-08-25 22:16:40 - FaceRec scan: 1 face(s) -> wlucas-f(0.58)
-2026-08-25 22:16:41 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:16:41 - Face desconhecida detetada
-2026-08-25 22:16:42 - FaceRec scan: nenhuma face detetada
-2026-08-25 22:16:43 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:16:43 - Face desconhecida detetada
-2026-08-25 22:16:46 - FaceRec scan: nenhuma face detetada
-2026-08-25 22:16:46 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:16:46 - Face desconhecida detetada
-2026-08-25 22:16:49 - FaceRec scan: 1 face(s) -> wlucas-f(0.41)
-2026-08-25 22:16:50 - FaceRec scan: 1 face(s) -> wlucas-f(0.40)
-2026-08-25 22:16:50 - Face reconhecida: wlucas-f (confiança: 0.40) [Saudação: ON]
-2026-08-25 22:16:51 - FaceRec scan: 1 face(s) -> wlucas-f(0.44)
-2026-08-25 22:16:52 - FaceRec scan: 1 face(s) -> wlucas-f(0.57)
-2026-08-25 22:16:53 - FaceRec scan: 1 face(s) -> wlucas-f(0.42)
-2026-08-25 22:16:54 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:16:54 - Face desconhecida detetada
-2026-08-25 22:16:55 - FaceRec scan: nenhuma face detetada
-2026-08-25 22:16:56 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:16:56 - Face desconhecida detetada
-2026-08-25 22:16:57 - FaceRec scan: 1 face(s) -> wlucas-f(0.43)
-2026-08-25 22:16:58 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:16:58 - Face desconhecida detetada
-2026-08-25 22:16:59 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:16:59 - Face desconhecida detetada
-2026-08-25 22:17:00 - FaceRec scan: 1 face(s) -> wlucas-f(0.53)
-2026-08-25 22:17:01 - FaceRec scan: 1 face(s) -> wlucas-f(0.45)
-2026-08-25 22:17:01 - Face reconhecida: wlucas-f (confiança: 0.45) [Saudação: ON]
-2026-08-25 22:17:01 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:17:01 - Face desconhecida detetada
-2026-08-25 22:17:02 - FaceRec scan: 1 face(s) -> wlucas-f(0.46)
-2026-08-25 22:17:03 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:17:03 - Face desconhecida detetada
-2026-08-25 22:17:04 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:17:04 - Face desconhecida detetada
-2026-08-25 22:17:08 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:17:08 - Face desconhecida detetada
-2026-08-25 22:17:10 - FaceRec scan: nenhuma face detetada
-2026-08-25 22:17:10 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:17:10 - Face desconhecida detetada
-2026-08-25 22:17:11 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:17:11 - Face desconhecida detetada
-2026-08-25 22:17:12 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:17:12 - Face desconhecida detetada
-2026-08-25 22:17:13 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:17:13 - Face desconhecida detetada
-2026-08-25 22:17:14 - FaceRec scan: 1 face(s) -> unknown(0.00)
-2026-08-25 22:17:14 - Face desconhecida detetada
-2026-08-25 22:17:15 - FaceRec scan: 1 face(s) -> wlucas-f(0.39)
-2026-08-25 22:17:15 - Face reconhecida: wlucas-f (confiança: 0.39) [Saudação: ON]
-2026-08-25 22:17:16 - Atividade detetada (Teclado)
-2026-08-25 22:17:17 - Atividade continuada (Teclado)
-2026-08-25 22:17:17 - FaceRec scan: 1 face(s) -> wlucas-f(0.49)
-2026-08-25 22:17:17 - Atividade continuada (Teclado)
-2026-08-25 22:17:17 - Atividade continuada (Teclado)
-2026-08-25 22:17:17 - Sessão Desbloqueada com palavra-passe
+2026-08-25 22:24:04 - FaceRec inicializado: 53 pessoa(s) [Dinis! Já foste correr hoje?, Hacker! Esse sistema operativo, está pronto?, Maria João! Ainda sabes onde é a escola?!, Mariana, MarianaR, Mel, Melissa, PedroSantaClara. The 42 GodFather!, Ricardo, Sotto, T!, Vanessa The CEO!!, Vítor The CTO, aantela-, adpinhei, bpavlows, brmaria-, cgross-s, clumertz, cmoura-p, davmendo, dcaetano, dda-fons, dmikhail, dsutormi, feazeved, fjose-hi, fomanca, fshiniti, gasoares, gde-la-r, ghenriqu, gtretiak, jemustaj, joesanto, jpedro-f! ALERT STAFF!! Am i in trouble?!, lbuscaro, leoaguia, lgertrud, luguimar, maaugust, mafonso, mariaalm, mide-fre, paalexan, paulo-do, rafaelfe, rita, rodrmore, thevaris, valcalol, vaugusto, wlucas-f], threshold=0.363
+2026-08-25 22:24:04 - Sessão Iniciada / Ecrã Bloqueado
+2026-08-25 22:24:04 - Atividade detetada (Camara)
+2026-08-25 22:24:04 - FaceRec scan: 1 face(s) -> T!(0.53)
+2026-08-25 22:24:04 - Face reconhecida: T! (confiança: 0.53) [Saudação: ON]
+2026-08-25 22:24:07 - FaceRec scan: 2 face(s) -> unknown(0.00), unknown(0.00)
+2026-08-25 22:24:07 - Face desconhecida detetada
+2026-08-25 22:24:07 - Face desconhecida detetada
+2026-08-25 22:24:08 - FaceRec scan: 2 face(s) -> lgertrud(0.47), unknown(0.00)
+2026-08-25 22:24:08 - Face reconhecida: lgertrud (confiança: 0.47) [Saudação: ON]
+2026-08-25 22:24:09 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-25 22:24:09 - Face desconhecida detetada
+2026-08-25 22:24:10 - FaceRec scan: 1 face(s) -> dda-fons(0.41)
+2026-08-25 22:24:10 - Face reconhecida: dda-fons (confiança: 0.41) [Saudação: ON]
+2026-08-25 22:24:11 - FaceRec scan: 2 face(s) -> dda-fons(0.36), unknown(0.00)
+2026-08-25 22:24:11 - Face desconhecida detetada
+2026-08-25 22:24:12 - FaceRec scan: 2 face(s) -> dda-fons(0.37), mariaalm(0.42)
+2026-08-25 22:24:12 - Face reconhecida: mariaalm (confiança: 0.42) [Saudação: ON]
+2026-08-25 22:24:13 - FaceRec scan: 2 face(s) -> dda-fons(0.38), unknown(0.00)
+2026-08-25 22:24:13 - Face desconhecida detetada
+2026-08-25 22:24:14 - FaceRec scan: 1 face(s) -> dda-fons(0.39)
+2026-08-25 22:24:15 - FaceRec scan: 3 face(s) -> dda-fons(0.44), wlucas-f(0.47), unknown(0.00)
+2026-08-25 22:24:15 - Face reconhecida: wlucas-f (confiança: 0.47) [Saudação: ON]
+2026-08-25 22:24:16 - FaceRec scan: 3 face(s) -> dda-fons(0.41), mariaalm(0.37), wlucas-f(0.45)
+2026-08-25 22:24:17 - FaceRec scan: 2 face(s) -> dda-fons(0.45), unknown(0.00)
+2026-08-25 22:24:17 - Face desconhecida detetada
+2026-08-25 22:24:18 - FaceRec scan: 2 face(s) -> dda-fons(0.49), unknown(0.00)
+2026-08-25 22:24:18 - Face desconhecida detetada
+2026-08-25 22:24:19 - FaceRec scan: 1 face(s) -> dda-fons(0.50)
+2026-08-25 22:24:20 - FaceRec scan: 1 face(s) -> dda-fons(0.43)
+2026-08-25 22:24:20 - Face reconhecida: dda-fons (confiança: 0.43) [Saudação: ON]
+2026-08-25 22:24:20 - FaceRec scan: 1 face(s) -> dda-fons(0.48)
+2026-08-25 22:24:21 - FaceRec scan: 1 face(s) -> dda-fons(0.48)
+2026-08-25 22:24:22 - FaceRec scan: 1 face(s) -> dda-fons(0.47)
+2026-08-25 22:24:23 - FaceRec scan: 2 face(s) -> dda-fons(0.45), mariaalm(0.38)
+2026-08-25 22:24:23 - Face reconhecida: mariaalm (confiança: 0.38) [Saudação: ON]
+2026-08-25 22:24:24 - FaceRec scan: 2 face(s) -> dda-fons(0.46), unknown(0.00)
+2026-08-25 22:24:24 - Face desconhecida detetada
+2026-08-25 22:24:25 - FaceRec scan: 2 face(s) -> dda-fons(0.47), mariaalm(0.37)
+2026-08-25 22:24:25 - FaceRec scan: 2 face(s) -> dda-fons(0.47), mariaalm(0.38)
+2026-08-25 22:24:26 - FaceRec scan: 2 face(s) -> dda-fons(0.50), unknown(0.00)
+2026-08-25 22:24:26 - Face desconhecida detetada
+2026-08-25 22:24:27 - FaceRec scan: 1 face(s) -> T!(0.56)
+2026-08-25 22:24:27 - Face reconhecida: T! (confiança: 0.56) [Saudação: ON]
+2026-08-25 22:24:28 - FaceRec scan: 3 face(s) -> T!(0.53), unknown(0.00), unknown(0.00)
+2026-08-25 22:24:28 - Face desconhecida detetada
+2026-08-25 22:24:28 - Face desconhecida detetada
+2026-08-25 22:24:29 - FaceRec scan: 3 face(s) -> dda-fons(0.47), mariaalm(0.42), wlucas-f(0.37)
+2026-08-25 22:24:29 - Face reconhecida: wlucas-f (confiança: 0.37) [Saudação: ON]
+2026-08-25 22:24:30 - FaceRec scan: 3 face(s) -> mariaalm(0.49), wlucas-f(0.50), dda-fons(0.50)
+2026-08-25 22:24:30 - Face reconhecida: dda-fons (confiança: 0.50) [Saudação: ON]
+2026-08-25 22:24:31 - FaceRec scan: 3 face(s) -> dda-fons(0.49), mariaalm(0.51), unknown(0.00)
+2026-08-25 22:24:31 - Face desconhecida detetada
+2026-08-25 22:24:32 - FaceRec scan: 3 face(s) -> mariaalm(0.38), unknown(0.00), unknown(0.00)
+2026-08-25 22:24:32 - Face desconhecida detetada
+2026-08-25 22:24:32 - Face desconhecida detetada
+2026-08-25 22:24:33 - FaceRec scan: 2 face(s) -> dda-fons(0.48), unknown(0.00)
+2026-08-25 22:24:33 - Face desconhecida detetada
+2026-08-25 22:24:34 - FaceRec scan: 2 face(s) -> dda-fons(0.52), mariaalm(0.37)
+2026-08-25 22:24:34 - Face reconhecida: mariaalm (confiança: 0.37) [Saudação: ON]
+2026-08-25 22:24:35 - FaceRec scan: 2 face(s) -> dda-fons(0.48), mariaalm(0.52)
+2026-08-25 22:24:37 - FaceRec scan: 2 face(s) -> dda-fons(0.51), mariaalm(0.45)
+2026-08-25 22:24:37 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-25 22:24:37 - Face desconhecida detetada
+2026-08-25 22:24:38 - FaceRec scan: 2 face(s) -> T!(0.46), unknown(0.00)
+2026-08-25 22:24:38 - Face reconhecida: T! (confiança: 0.46) [Saudação: ON]
+2026-08-25 22:24:39 - FaceRec scan: 2 face(s) -> unknown(0.00), unknown(0.00)
+2026-08-25 22:24:39 - Face desconhecida detetada
+2026-08-25 22:24:39 - Face desconhecida detetada
+2026-08-25 22:24:40 - FaceRec scan: 2 face(s) -> T!(0.45), unknown(0.00)
+2026-08-25 22:24:40 - Face desconhecida detetada
+2026-08-25 22:24:41 - Atividade detetada (Teclado)
+2026-08-25 22:24:41 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-25 22:24:41 - Face desconhecida detetada
+2026-08-25 22:24:41 - Atividade continuada (Teclado)
+2026-08-25 22:24:41 - Atividade continuada (Teclado)
+2026-08-25 22:24:42 - Atividade continuada (Teclado)
+2026-08-25 22:24:42 - FaceRec scan: 1 face(s) -> T!(0.46)
+2026-08-25 22:24:43 - FaceRec scan: 1 face(s) -> T!(0.44)
+2026-08-25 22:24:44 - FaceRec scan: 1 face(s) -> T!(0.44)
+2026-08-25 22:24:45 - FaceRec scan: 2 face(s) -> T!(0.48), unknown(0.00)
+2026-08-25 22:24:45 - Face desconhecida detetada
+2026-08-25 22:24:46 - FaceRec scan: 1 face(s) -> T!(0.46)
+2026-08-25 22:24:47 - FaceRec scan: 1 face(s) -> T!(0.51)
+2026-08-25 22:24:48 - Atividade detetada (Teclado)
+2026-08-25 22:24:48 - Atividade continuada (Teclado)
+2026-08-25 22:24:48 - Atividade continuada (Teclado)
+2026-08-25 22:24:48 - Sessão Desbloqueada com palavra-passe
+2026-08-25 22:24:48 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-25 22:24:48 - Face desconhecida detetada
+2026-08-25 22:30:10 - FaceRec inicializado: 53 pessoa(s) [Dinis! Já foste correr hoje?, Hacker! Esse sistema operativo, está pronto?, Maria João! Ainda sabes onde é a escola?!, Mariana, MarianaR, Mel, Melissa, PedroSantaClara. The 42 GodFather!, Ricardo, Sotto, T!, Vanessa The CEO!!, Vítor The CTO, aantela-, adpinhei, bpavlows, brmaria-, cgross-s, clumertz, cmoura-p, davmendo, dcaetano, dda-fons, dmikhail, dsutormi, feazeved, fjose-hi, fomanca, fshiniti, gasoares, gde-la-r, ghenriqu, gtretiak, jemustaj, joesanto, jpedro-f! ALERT STAFF!! Am i in trouble?!, lbuscaro, leoaguia, lgertrud, luguimar, maaugust, mafonso, mariaalm, mide-fre, paalexan, paulo-do, rafaelfe, rita, rodrmore, thevaris, valcalol, vaugusto, wlucas-f], threshold=0.363
+2026-08-25 22:30:10 - Sessão Iniciada / Ecrã Bloqueado
+2026-08-25 22:30:11 - Atividade detetada (Camara)
+2026-08-25 22:30:11 - FaceRec scan: nenhuma face detetada
+2026-08-25 22:43:26 - Atividade detetada (Camara)
+2026-08-25 22:43:26 - FaceRec scan: nenhuma face detetada
+2026-08-25 22:43:27 - FaceRec scan: nenhuma face detetada
+2026-08-25 22:43:28 - FaceRec scan: nenhuma face detetada
+2026-08-25 22:43:29 - FaceRec scan: nenhuma face detetada
+2026-08-25 22:43:30 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-25 22:43:30 - Face desconhecida detetada
+2026-08-25 22:43:31 - FaceRec scan: nenhuma face detetada
+2026-08-25 22:43:32 - FaceRec scan: nenhuma face detetada
+2026-08-25 22:43:32 - Atividade detetada (Teclado)
+2026-08-25 22:43:32 - Atividade continuada (Teclado)
+2026-08-25 22:43:33 - FaceRec scan: nenhuma face detetada
+2026-08-25 22:43:33 - Atividade continuada (Teclado)
+2026-08-25 22:43:33 - Sessão Desbloqueada com palavra-passe
