@@ -106,3 +106,133 @@
 2026-08-25 22:43:33 - FaceRec scan: nenhuma face detetada
 2026-08-25 22:43:33 - Atividade continuada (Teclado)
 2026-08-25 22:43:33 - Sessão Desbloqueada com palavra-passe
+2026-08-26 14:57:02 - FaceRec inicializado: 55 pessoa(s) [Dinis! Já foste correr hoje?, Hacker! Esse sistema operativo, está pronto?, Maria João! Ainda sabes onde é a escola?!, Mariana, MarianaR, Mel, Melissa, PedroSantaClara. The 42 GodFather!, Ricardo, Sotto, T!, Vanessa The CEO!!, Vítor The CTO, aantela-, adpinhei, bpavlows, brmaria-, cgross-s, clumertz, cmoura-p, davmendo, dcaetano, dda-fons, dmikhail, dsutormi, feazeved, fjose-hi, fomanca, fshiniti, gasoares, gde-la-r, ghenriqu, gtretiak, jemustaj, joesanto, jpedro-f! ALERT STAFF!! Am i in trouble?!, lbuscaro, leoaguia, lgertrud, luguimar, maaugust, mafonso, mariaalm, mide-fre, paalexan, paulo-do, rafaelfe, rdeimaos, rita, rodrmore, tfilipe-, thevaris, valcalol, vaugusto, wlucas-f], threshold=0.363
+2026-08-26 14:57:02 - Sessão Iniciada / Ecrã Bloqueado
+2026-08-26 14:57:02 - Atividade detetada (Camara)
+2026-08-26 14:57:02 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-26 14:57:02 - Face desconhecida detetada
+2026-08-26 14:57:03 - FaceRec scan: nenhuma face detetada
+2026-08-26 14:57:04 - FaceRec scan: nenhuma face detetada
+2026-08-26 14:57:05 - FaceRec scan: 1 face(s) -> tfilipe-(0.38)
+2026-08-26 14:57:05 - Face reconhecida: tfilipe- (confiança: 0.38) [Saudação: ON]
+2026-08-26 14:57:06 - FaceRec scan: 1 face(s) -> tfilipe-(0.50)
+2026-08-26 14:57:07 - FaceRec scan: 1 face(s) -> tfilipe-(0.44)
+2026-08-26 14:57:09 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-26 14:57:09 - Face desconhecida detetada
+2026-08-26 14:57:10 - FaceRec scan: nenhuma face detetada
+2026-08-26 14:57:11 - FaceRec scan: nenhuma face detetada
+2026-08-26 14:57:12 - FaceRec scan: nenhuma face detetada
+2026-08-26 14:57:13 - FaceRec scan: 1 face(s) -> rdeimaos(0.79)
+2026-08-26 14:57:13 - Face reconhecida: rdeimaos (confiança: 0.79) [Saudação: ON]
+2026-08-26 14:57:14 - FaceRec scan: 1 face(s) -> rdeimaos(0.68)
+2026-08-26 14:57:15 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-26 14:57:15 - Face desconhecida detetada
+2026-08-26 14:57:16 - FaceRec scan: 1 face(s) -> T!(0.54)
+2026-08-26 14:57:16 - Face reconhecida: T! (confiança: 0.54) [Saudação: ON]
+2026-08-26 14:57:17 - FaceRec scan: 1 face(s) -> T!(0.54)
+2026-08-26 14:57:18 - FaceRec scan: nenhuma face detetada
+2026-08-26 14:57:19 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-26 14:57:19 - Face desconhecida detetada
+2026-08-26 14:57:20 - FaceRec scan: 1 face(s) -> tfilipe-(0.39)
+2026-08-26 14:57:20 - Face reconhecida: tfilipe- (confiança: 0.39) [Saudação: ON]
+2026-08-26 14:57:21 - FaceRec scan: 1 face(s) -> T!(0.50)
+2026-08-26 14:57:22 - FaceRec scan: 1 face(s) -> T!(0.49)
+2026-08-26 14:57:23 - FaceRec scan: 1 face(s) -> T!(0.66)
+2026-08-26 14:57:24 - Atividade detetada (Teclado)
+2026-08-26 14:57:24 - FaceRec scan: 1 face(s) -> T!(0.59)
+2026-08-26 14:57:25 - Atividade continuada (Teclado)
+2026-08-26 14:57:25 - Atividade continuada (Teclado)
+2026-08-26 14:57:25 - FaceRec scan: 1 face(s) -> unknown(0.00)
+2026-08-26 14:57:25 - Face desconhecida detetada
+2026-08-26 14:57:25 - Atividade continuada (Teclado)
+2026-08-26 14:57:25 - Sessão Desbloqueada com palavra-passe
+2026-08-26 18:42:40 - FaceRec inicializado: 57 pessoa(s) [Dinis! Já foste correr hoje?, Hacker! Esse sistema operativo, está pronto?, Maria João! Ainda sabes onde é a escola?!, Mariana, MarianaR, Mel, Melissa, PedroSantaClara. The 42 GodFather!, Ricardo, Sotto, T!, Vanessa The CEO!!, Vítor The CTO, aantela-, adpinhei, bpavlows, brmaria-, cgross-s, clumertz, cmoura-p, davmendo, dcaetano, dda-fons, dmikhail, dsutormi, feazeved, fjose-hi, fomanca, fshiniti, gasoares, gde-la-r, ghenriqu, gtretiak, jemustaj, joesanto, jpatrici, jpedro-f! ALERT STAFF!! Am i in trouble?!, lbuscaro, leoaguia, lgertrud, luguimar, maaugust, mafonso, mariaalm, mide-fre, paalexan, paulo-do, ptorrao-, rafaelfe, rdeimaos, rita, rodrmore, tfilipe-, thevaris, valcalol, vaugusto, wlucas-f], threshold=0.363
+2026-08-26 18:42:40 - Sessão Iniciada / Ecrã Bloqueado
+2026-08-26 18:42:41 - Atividade detetada (Camara)
+2026-08-26 18:42:41 - FaceRec scan: nenhuma face detetada
+2026-08-26 18:42:44 - FaceRec scan: 3 face(s) -> T!(0.66), unknown(0.00), unknown(0.00)
+2026-08-26 18:42:44 - Face reconhecida: T! (confiança: 0.66) [Saudação: ON]
+2026-08-26 18:42:45 - FaceRec scan: 2 face(s) -> T!(0.62), unknown(0.00)
+2026-08-26 18:42:45 - Face desconhecida detetada
+2026-08-26 18:42:46 - FaceRec scan: 2 face(s) -> ptorrao-(0.56), unknown(0.00)
+2026-08-26 18:42:46 - Face reconhecida: ptorrao- (confiança: 0.56) [Saudação: ON]
+2026-08-26 18:42:47 - FaceRec scan: 2 face(s) -> ptorrao-(0.63), unknown(0.00)
+2026-08-26 18:42:47 - Face desconhecida detetada
+2026-08-26 18:42:48 - FaceRec scan: 2 face(s) -> ptorrao-(0.53), unknown(0.00)
+2026-08-26 18:42:48 - Face desconhecida detetada
+2026-08-26 18:42:49 - FaceRec scan: 3 face(s) -> ptorrao-(0.60), unknown(0.00), unknown(0.00)
+2026-08-26 18:42:49 - Face desconhecida detetada
+2026-08-26 18:42:49 - Face desconhecida detetada
+2026-08-26 18:42:50 - FaceRec scan: 2 face(s) -> ptorrao-(0.60), unknown(0.00)
+2026-08-26 18:42:50 - Face desconhecida detetada
+2026-08-26 18:42:51 - FaceRec scan: 3 face(s) -> ptorrao-(0.54), unknown(0.00), unknown(0.00)
+2026-08-26 18:42:51 - Face desconhecida detetada
+2026-08-26 18:42:51 - Face desconhecida detetada
+2026-08-26 18:42:52 - FaceRec scan: 3 face(s) -> unknown(0.00), unknown(0.00), unknown(0.00)
+2026-08-26 18:42:52 - Face desconhecida detetada
+2026-08-26 18:42:52 - Face desconhecida detetada
+2026-08-26 18:42:52 - Face desconhecida detetada
+2026-08-26 18:42:53 - FaceRec scan: 3 face(s) -> ptorrao-(0.59), unknown(0.00), unknown(0.00)
+2026-08-26 18:42:53 - Face desconhecida detetada
+2026-08-26 18:42:53 - Face desconhecida detetada
+2026-08-26 18:42:54 - FaceRec scan: 4 face(s) -> jpatrici(0.42), unknown(0.00), unknown(0.00), unknown(0.00)
+2026-08-26 18:42:54 - Face reconhecida: jpatrici (confiança: 0.42) [Saudação: ON]
+2026-08-26 18:42:54 - FaceRec scan: 4 face(s) -> jpatrici(0.37), unknown(0.00), rodrmore(0.38), unknown(0.00)
+2026-08-26 18:42:54 - Face desconhecida detetada
+2026-08-26 18:42:54 - Face reconhecida: rodrmore (confiança: 0.38) [Saudação: ON]
+2026-08-26 18:42:55 - FaceRec scan: 3 face(s) -> ptorrao-(0.57), unknown(0.00), unknown(0.00)
+2026-08-26 18:42:55 - Face desconhecida detetada
+2026-08-26 18:42:55 - Face desconhecida detetada
+2026-08-26 18:42:57 - FaceRec scan: 3 face(s) -> jpatrici(0.48), Vanessa The CEO!!(0.37), unknown(0.00)
+2026-08-26 18:42:57 - Face reconhecida: Vanessa The CEO!! (confiança: 0.37) [Saudação: ON]
+2026-08-26 18:42:58 - FaceRec scan: 3 face(s) -> jpatrici(0.37), ptorrao-(0.56), unknown(0.00)
+2026-08-26 18:42:58 - Face reconhecida: ptorrao- (confiança: 0.56) [Saudação: ON]
+2026-08-26 18:42:58 - FaceRec scan: 4 face(s) -> jpatrici(0.49), ptorrao-(0.58), unknown(0.00), unknown(0.00)
+2026-08-26 18:42:58 - Face desconhecida detetada
+2026-08-26 18:42:58 - Face desconhecida detetada
+2026-08-26 18:42:59 - FaceRec scan: 4 face(s) -> jpatrici(0.42), ptorrao-(0.43), unknown(0.00), unknown(0.00)
+2026-08-26 18:42:59 - Face desconhecida detetada
+2026-08-26 18:42:59 - Face desconhecida detetada
+2026-08-26 18:43:00 - FaceRec scan: 3 face(s) -> ptorrao-(0.53), jpatrici(0.46), unknown(0.00)
+2026-08-26 18:43:00 - Face desconhecida detetada
+2026-08-26 18:43:01 - FaceRec scan: 2 face(s) -> jpatrici(0.41), unknown(0.00)
+2026-08-26 18:43:01 - Face desconhecida detetada
+2026-08-26 18:43:02 - FaceRec scan: 3 face(s) -> jpatrici(0.45), unknown(0.00), unknown(0.00)
+2026-08-26 18:43:02 - Face desconhecida detetada
+2026-08-26 18:43:02 - Face desconhecida detetada
+2026-08-26 18:43:03 - FaceRec scan: 3 face(s) -> jpatrici(0.47), unknown(0.00), rodrmore(0.37)
+2026-08-26 18:43:03 - Face desconhecida detetada
+2026-08-26 18:43:04 - FaceRec scan: 3 face(s) -> jpatrici(0.47), unknown(0.00), unknown(0.00)
+2026-08-26 18:43:04 - Face reconhecida: jpatrici (confiança: 0.47) [Saudação: ON]
+2026-08-26 18:43:06 - FaceRec scan: 3 face(s) -> jpatrici(0.49), unknown(0.00), unknown(0.00)
+2026-08-26 18:43:06 - Face desconhecida detetada
+2026-08-26 18:43:06 - Face desconhecida detetada
+2026-08-26 18:43:07 - FaceRec scan: 3 face(s) -> jpatrici(0.45), unknown(0.00), unknown(0.00)
+2026-08-26 18:43:07 - Face desconhecida detetada
+2026-08-26 18:43:07 - Face desconhecida detetada
+2026-08-26 18:43:08 - FaceRec scan: 2 face(s) -> jpatrici(0.42), unknown(0.00)
+2026-08-26 18:43:08 - Face desconhecida detetada
+2026-08-26 18:43:08 - FaceRec scan: 2 face(s) -> jpatrici(0.44), unknown(0.00)
+2026-08-26 18:43:08 - Face desconhecida detetada
+2026-08-26 18:43:09 - FaceRec scan: 2 face(s) -> ptorrao-(0.56), jpatrici(0.56)
+2026-08-26 18:43:09 - Face reconhecida: ptorrao- (confiança: 0.56) [Saudação: ON]
+2026-08-26 18:43:11 - FaceRec scan: nenhuma face detetada
+2026-08-26 18:43:12 - FaceRec scan: 1 face(s) -> wlucas-f(0.52)
+2026-08-26 18:43:12 - Face reconhecida: wlucas-f (confiança: 0.52) [Saudação: ON]
+2026-08-26 18:43:13 - FaceRec scan: 1 face(s) -> T!(0.62)
+2026-08-26 18:43:13 - Face reconhecida: T! (confiança: 0.62) [Saudação: ON]
+2026-08-26 18:43:14 - FaceRec scan: 4 face(s) -> T!(0.68), unknown(0.00), unknown(0.00), unknown(0.00)
+2026-08-26 18:43:14 - Face desconhecida detetada
+2026-08-26 18:43:14 - Face desconhecida detetada
+2026-08-26 18:43:14 - Face desconhecida detetada
+2026-08-26 18:43:15 - FaceRec scan: 2 face(s) -> T!(0.58), unknown(0.00)
+2026-08-26 18:43:15 - Face desconhecida detetada
+2026-08-26 18:43:16 - Atividade detetada (Teclado)
+2026-08-26 18:43:16 - FaceRec scan: 2 face(s) -> T!(0.62), unknown(0.00)
+2026-08-26 18:43:16 - Face desconhecida detetada
+2026-08-26 18:43:17 - FaceRec scan: 2 face(s) -> T!(0.62), unknown(0.00)
+2026-08-26 18:43:17 - Face desconhecida detetada
+2026-08-26 18:43:18 - Atividade continuada (Teclado)
+2026-08-26 18:43:18 - Atividade continuada (Teclado)
+2026-08-26 18:43:18 - Atividade continuada (Teclado)
+2026-08-26 18:43:18 - Sessão Desbloqueada com palavra-passe
